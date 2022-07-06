@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\File Saving/Loading">
+      <UniqueIdentifier>{693dc84e-3cee-47d1-9c1b-d3cdb655f097}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\CommandHandling">
+      <UniqueIdentifier>{ac9a0d34-d735-4f32-a9fb-d3394584ba6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ModelEditing">
+      <UniqueIdentifier>{b1133df2-5228-47bf-8d75-c3d786ea3133}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\MovementHandling">
+      <UniqueIdentifier>{744aff89-2403-4be5-a307-55b4a6373b35}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\OpenGL Rendering">
+      <UniqueIdentifier>{896ce553-228c-4ecd-8462-710351444e7d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Perspective Transformation">
+      <UniqueIdentifier>{1b7e602b-ce04-4ffa-a7a3-1f0c1e6f6abb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Perspective Transformation\Vectors">
+      <UniqueIdentifier>{84c416b9-9844-43e4-a850-7aba7dc49236}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="framework.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector3D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="visualTransform.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="frustumClipping.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CRender.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CShape.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ModelEditor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MovementHandling.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectReader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Screen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectWriter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CommandHandler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ErrorCallback.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RenderWindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GlobalStates.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="triangleGeometryGeneration.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="dllmain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector2D.cpp">
+      <Filter>Source Files\Perspective Transformation\Vectors</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector3D.cpp">
+      <Filter>Source Files\Perspective Transformation\Vectors</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Source Files\Perspective Transformation</Filter>
+    </ClCompile>
+    <ClCompile Include="visualTransform.cpp">
+      <Filter>Source Files\Perspective Transformation</Filter>
+    </ClCompile>
+    <ClCompile Include="frustumClipping.cpp">
+      <Filter>Source Files\Perspective Transformation</Filter>
+    </ClCompile>
+    <ClCompile Include="CRender.cpp">
+      <Filter>Source Files\OpenGL Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="CShape.cpp">
+      <Filter>Source Files\Perspective Transformation</Filter>
+    </ClCompile>
+    <ClCompile Include="ModelEditor.cpp">
+      <Filter>Source Files\ModelEditing</Filter>
+    </ClCompile>
+    <ClCompile Include="MovementHandling.cpp">
+      <Filter>Source Files\MovementHandling</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectReader.cpp">
+      <Filter>Source Files\File Saving/Loading</Filter>
+    </ClCompile>
+    <ClCompile Include="Screen.cpp">
+      <Filter>Source Files\OpenGL Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectWriter.cpp">
+      <Filter>Source Files\File Saving/Loading</Filter>
+    </ClCompile>
+    <ClCompile Include="CommandHandler.cpp">
+      <Filter>Source Files\CommandHandling</Filter>
+    </ClCompile>
+    <ClCompile Include="ErrorCallback.cpp">
+      <Filter>Source Files\OpenGL Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="RenderWindow.cpp">
+      <Filter>Source Files\OpenGL Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="GlobalStates.cpp">
+      <Filter>Source Files\OpenGL Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="triangleGeometryGeneration.cpp">
+      <Filter>Source Files\Perspective Transformation</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

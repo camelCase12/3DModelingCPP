@@ -1,0 +1,2 @@
+C:\Users\chase\source\repos\3DRenderingCore\Debug\3DRenderingCore.pdb
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\Debug\3DRenderingCore.pdb

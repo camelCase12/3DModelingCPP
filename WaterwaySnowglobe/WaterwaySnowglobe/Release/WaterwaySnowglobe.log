@@ -1,0 +1,23 @@
+﻿  WaterwaySnowglobe.cpp
+  Generating code
+  2 of 1183 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+3DRenderingCore.lib(RenderWindow.obj) : warning LNK4020: a type record in 'C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\Release\3DRenderingCore.pdb' is corrupted; some symbols and types may not be accessible from the debugger
+3DRenderingCore.lib(CRender.obj) : warning LNK4020: a type record in 'C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\Release\3DRenderingCore.pdb' is corrupted; some symbols and types may not be accessible from the debugger
+3DRenderingCore.lib(ModelEditor.obj) : warning LNK4020: a type record in 'C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\Release\3DRenderingCore.pdb' is corrupted; some symbols and types may not be accessible from the debugger
+3DRenderingCore.lib(GlobalStates.obj) : warning LNK4020: a type record in 'C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\Release\3DRenderingCore.pdb' is corrupted; some symbols and types may not be accessible from the debugger
+3DRenderingCore.lib(Camera.obj) : warning LNK4020: a type record in 'C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\Release\3DRenderingCore.pdb' is corrupted; some symbols and types may not be accessible from the debugger
+3DRenderingCore.lib(CShape.obj) : warning LNK4020: a type record in 'C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\Release\3DRenderingCore.pdb' is corrupted; some symbols and types may not be accessible from the debugger
+3DRenderingCore.lib(MovementHandling.obj) : warning LNK4020: a type record in 'C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\Release\3DRenderingCore.pdb' is corrupted; some symbols and types may not be accessible from the debugger
+3DRenderingCore.lib(ErrorCallback.obj) : warning LNK4020: a type record in 'C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\Release\3DRenderingCore.pdb' is corrupted; some symbols and types may not be accessible from the debugger
+3DRenderingCore.lib(Vector3D.obj) : warning LNK4020: a type record in 'C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\Release\3DRenderingCore.pdb' is corrupted; some symbols and types may not be accessible from the debugger
+3DRenderingCore.lib(Vector2D.obj) : warning LNK4020: a type record in 'C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\Release\3DRenderingCore.pdb' is corrupted; some symbols and types may not be accessible from the debugger
+3DRenderingCore.lib(ObjectReader.obj) : warning LNK4020: a type record in 'C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\Release\3DRenderingCore.pdb' is corrupted; some symbols and types may not be accessible from the debugger
+3DRenderingCore.lib(visualTransform.obj) : warning LNK4020: a type record in 'C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\Release\3DRenderingCore.pdb' is corrupted; some symbols and types may not be accessible from the debugger
+3DRenderingCore.lib(frustumClipping.obj) : warning LNK4020: a type record in 'C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\Release\3DRenderingCore.pdb' is corrupted; some symbols and types may not be accessible from the debugger
+3DRenderingCore.lib(triangleGeometryGeneration.obj) : warning LNK4020: a type record in 'C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\Release\3DRenderingCore.pdb' is corrupted; some symbols and types may not be accessible from the debugger
+3DRenderingCore.lib(CommandHandler.obj) : warning LNK4020: a type record in 'C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\Release\3DRenderingCore.pdb' is corrupted; some symbols and types may not be accessible from the debugger
+3DRenderingCore.lib(ObjectWriter.obj) : warning LNK4020: a type record in 'C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\Release\3DRenderingCore.pdb' is corrupted; some symbols and types may not be accessible from the debugger
+  WaterwaySnowglobe.vcxproj -> C:\Users\chase\source\repos\WaterwaySnowglobe\Release\WaterwaySnowglobe.exe

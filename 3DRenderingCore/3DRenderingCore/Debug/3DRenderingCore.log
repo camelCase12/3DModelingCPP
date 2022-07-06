@@ -1,0 +1,9 @@
+﻿  triangleGeometryGeneration.cpp
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\triangleGeometryGeneration.cpp(24,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\triangleGeometryGeneration.cpp(30,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\triangleGeometryGeneration.cpp(42,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\triangleGeometryGeneration.cpp(142,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\triangleGeometryGeneration.cpp(152,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\triangleGeometryGeneration.cpp(166,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\triangleGeometryGeneration.cpp(169,21): warning C4018: '<': signed/unsigned mismatch
+  3DRenderingCore.vcxproj -> C:\Users\chase\source\repos\3DRenderingCore\Debug\3DRenderingCore.lib

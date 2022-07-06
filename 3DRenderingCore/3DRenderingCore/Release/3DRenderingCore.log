@@ -1,0 +1,55 @@
+﻿  CShape.cpp
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\CShape.cpp(33,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\CShape.cpp(70,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\CShape.cpp(85,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\CShape.cpp(183,23): warning C4018: '<': signed/unsigned mismatch
+  CommandHandler.cpp
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\CommandHandler.cpp(55,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\CommandHandler.cpp(56,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\CommandHandler.cpp(57,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  GlobalStates.cpp
+  ModelEditor.cpp
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\ModelEditor.cpp(30,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\ModelEditor.cpp(31,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\ModelEditor.cpp(32,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\ModelEditor.cpp(45,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\ModelEditor.cpp(46,60): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\ModelEditor.cpp(67,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\ModelEditor.cpp(68,138): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\ModelEditor.cpp(75,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\ModelEditor.cpp(88,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\ModelEditor.cpp(89,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\ModelEditor.cpp(115,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\ModelEditor.cpp(116,60): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\ModelEditor.cpp(175,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\ModelEditor.cpp(186,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\ModelEditor.cpp(209,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\ModelEditor.cpp(214,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\ModelEditor.cpp(219,20): warning C4018: '<': signed/unsigned mismatch
+  MovementHandling.cpp
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\MovementHandling.cpp(16,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\MovementHandling.cpp(17,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  ObjectReader.cpp
+  ObjectWriter.cpp
+  RenderWindow.cpp
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\RenderWindow.cpp(14,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\RenderWindow.cpp(21,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\RenderWindow.cpp(76,67): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\RenderWindow.cpp(76,51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\RenderWindow.cpp(76,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\RenderWindow.cpp(79,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\RenderWindow.cpp(79,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\RenderWindow.cpp(80,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\RenderWindow.cpp(80,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\RenderWindow.cpp(88,70): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\RenderWindow.cpp(88,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\RenderWindow.cpp(95,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\RenderWindow.cpp(96,88): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\RenderWindow.cpp(96,54): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\RenderWindow.cpp(104,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\RenderWindow.cpp(105,90): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\RenderWindow.cpp(105,57): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Screen.cpp
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\Screen.cpp(18,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chase\source\repos\3DRenderingCore\3DRenderingCore\Screen.cpp(25,20): warning C4018: '<': signed/unsigned mismatch
+  3DRenderingCore.vcxproj -> C:\Users\chase\source\repos\3DRenderingCore\Release\3DRenderingCore.lib
